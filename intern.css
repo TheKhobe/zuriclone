@@ -1,0 +1,498 @@
+main{
+ background-color:rgb(255, 253, 245);
+}
+.left{
+ display: flex;
+ align-items: center;
+}
+.thumb{
+ background-color: red;
+ border-radius: 55%;
+ width: 35px;
+ margin-left: 40%;
+ border: 4px solid red;
+}
+.thumb img{
+ width: 33px;
+ border-radius: 50%;
+ margin-top: 3px;
+ margin-left: 1px;
+}
+button{
+ background-color: red;
+ color: white;
+ width: 120px;
+ border-radius: 40px;
+ height: 40px;
+ border: none;
+ font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
+.lady-section{
+display: flex;
+align-items: center;
+margin-top: -10%;
+margin-left: 7%;
+height: 600px;
+}
+.lady-section img{
+ width: 300px;
+}
+#line{
+ margin-left: 45%;
+ margin-top: -30%;
+}
+.basic{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  margin-left: 5%;
+}
+h2{
+ text-align: center;
+ font-size: 50px;
+ font-family: 'Poppins', sans-serif;
+}
+.text{
+ margin-top: 120px;
+}
+.lady-text{
+  margin-left: 40%;
+  color: red;
+  margin-top: 10%;
+   font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+#line{
+ width: 250px;
+}
+.down{
+ margin-top: -4%;
+ display: flex;
+ align-items: center;
+}
+.down button{
+margin-left: 42%;
+width: 12%;
+margin-top: -10%;
+}
+.down img{
+ width: 50px;
+ margin-left: -20%;
+ margin-top: 20px;
+}
+.wire{
+ margin-left: 50%;
+ margin-top: -80px;
+ width: 80px;
+}
+p{
+ text-align: center;
+  font-family:  'Poppins', sans-serif;
+}
+.new-section{
+ border-top: 2px solid rgb(200, 198, 198);
+  border-bottom: 2px solid rgb(200, 198, 198);
+}
+.my-text{
+ margin-left: 10%;
+ display: flex;
+  font-family: 'Poppins', sans-serif;
+ padding-left: 10px;
+   align-items: center;
+}
+.my-text img{
+ margin-left: 10%;
+}
+.my-text p{
+  margin-left: 10%;
+   font-family: 'Poppins', sans-serif;
+}
+.green{
+ color: green;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+ text-decoration: underline;
+}
+.red{
+ color: red;
+} 
+.zur{
+ display: flex;
+ padding: 50px;
+}
+.zur img{
+ margin-left: 20%;
+ width: 100px;
+}
+.full{
+ background-color: red;
+ color: white;
+ height: 400px;
+ border-radius: 9px;
+ width: 500px;
+}
+.full img{
+ margin-left: 80%;
+ width: 100px;
+}
+.white-bg{
+ font-size: 40px;
+ font-family: 'Poppins', sans-serif;
+ margin-top: -70px;
+ margin-left: 20px;
+}
+h5{
+ font-family: 'Poppins', sans-serif;
+ font-size: 30px;
+}
+.white{
+ font-size: 30px;
+ font-family: 'Poppins', sans-serif;
+ margin-left: 20px;
+}
+.white-text{
+ text-align: left;
+ font-size: 20px;
+ font-family: 'Poppins', sans-serif;
+ margin-left: 20px;
+}
+.hands, .collab, .real, .begin, .mentor{
+color: black;
+background-color: white;
+  height: 400px;
+  border-radius: 9px;
+  width: 500px;
+  margin-left: 30px;
+  box-shadow: 3px 3px 3px 3px #ccc;
+}
+.hands img, .collab img, .real img, .begin img, .mentor img{
+  margin-left: 80%;
+   width: 85px;
+}
+
+.fullhand, .hallhand{
+ display: flex;
+ align-items: center;
+ margin-top: 20px;
+}
+.hallhand{
+ margin-left: -30px;
+}
+.red-section{
+ background-color: red;
+ color: white;
+ background-image: url('/images/dotsection5.svg');
+ background-repeat: no-repeat;
+ background-position: bottom left;
+ background-size: 100px;
+height: 800px;
+}
+.help{
+ display: flex;
+ align-items: center;
+}
+.texte{
+ font-family: 'Poppins', sans-serif;
+ margin-left: 30px;
+ margin-top: -20%;
+}
+.text h3{
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+}
+.lim{
+ font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  margin-top: 20%;
+  margin-left: 30px;
+}
+#sile{
+ margin-left: 25%;
+ width: 90px;
+ margin-top: 30px;
+}
+.red-section button{
+ color: red;
+ background-color: white;
+}
+.red-section p {
+ text-align: left;
+}
+.btns button{
+ background-color: transparent;
+ border: 1px solid white;
+ color: white;
+ width: 200px;
+ height: 80px;
+}
+.btns img{
+ width: 40px;
+}
+.btns{
+ margin-top: -10%;
+}
+.join{
+ display: flex;
+}
+.run{
+ display: flex;
+ margin-top: 12px;
+}
+.tras{
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+ margin-left: 12px;
+}
+.sectionimage{
+ width: 700px;
+ margin-top: -10%;
+ margin-left: 10%;
+}
+h4{
+ font-family: 'Poppins', sans-serif;
+  margin-left: 30px;
+  font-size: 40px;
+  margin-top: -20px;
+}
+.scope{
+ border-bottom: 2px solid #ccc;
+ font-family: 'Poppins', sans-serif;
+ height: 1050px;
+  margin-left: 30px;
+}
+.rede{
+ font-family: 'Poppins', sans-serif;
+  font-size: 26px;
+  color: red;
+  margin-top: 30%;
+  margin-left: -30%;
+}
+.red{
+ font-family: 'Poppins', sans-serif;
+  margin-left: 40px;
+  font-size: 26px;
+}
+.scope h3{
+ font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  margin-left: 40px;
+  font-weight: 600;
+}
+#fire{
+ margin-left: 29%;
+ width: 90px;
+ margin-top: 10%;
+}
+.web, .other{
+ display: flex;
+ align-items: center;
+ margin-left: 5%;
+}
+.frontend, .backend, .product{
+ background-color: white;
+ border-radius: 12px;
+  height: 300px;
+ box-shadow: 3px 3px 3px 3px #ccc;
+ width: 30%;
+}
+.devops, .fullstack, .frameworks{
+  background-color: white;
+    border-radius: 12px;
+    box-shadow: 3px 3px 3px 3px #ccc;
+    width: 30%;
+    height: 300px;
+    margin-top: 30px;
+}
+.fullstack, .frameworks{
+  margin-left: 30px;
+}
+.backend, .product{
+ margin-left: 30px;
+}
+.fim, .lime{
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+}
+.fim img{
+ width: 40px;
+ margin-left: 50px;
+}
+.web h2, .other h2{
+ font-family: 'Poppins', sans-serif;
+ font-size: 20px;
+}
+.scope button {
+  margin-left: 45%;
+  margin-top: 40px;
+}
+.section-7 h3{
+  font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -20px;
+}
+.section-7 p{
+  font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+  margin-top: -20px;
+}
+.section-7 img{
+  width: 200px;
+  margin-left: 10%;
+}
+.plus{
+  font-size: 40px;
+  font-weight: 900;
+}
+.one, .two, .tree, .four, .five{
+  display: flex;
+  align-items: center;
+  border-bottom: 3px solid #ccc;
+}
+.ques{
+  border: 3px solid #ccc;
+}
+.one span{
+  margin-left: 30%;
+}
+.two span{
+  margin-left: 27%;
+}
+.tree span{
+  margin-left: 34%;
+}
+.four span{
+  margin-left: 10%;
+}
+.five span{
+  margin-left: 70%;
+}
+#twitter{
+  width: 500px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.folder{
+  margin-left: 60%;
+}
+.privacy{
+  display: flex;
+  align-items: center;
+}
+.policy{
+  margin-left: 60%;
+}
+.policy a{
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+font-family: 'Poppins', sans-serif;
+}
+.getstarted h3{
+  font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-left: -50%;
+    color: white;
+    margin-top: -20px;
+}
+.getstarted{
+  background-color: rgb(232, 19, 19);
+  border-radius: 22px;
+  padding: auto;
+  background-image: url('/images/bend1.svg');
+  background-repeat: no-repeat;
+background-position: top right;
+margin-bottom: 10%;
+
+height: 500px;
+}
+#dot{
+  margin-left: 72%;
+}
+#round{
+  width: 150px;
+  margin-left: 10%;
+}
+.getstarted button{
+  background-color: white;
+  color: red;
+  margin-left: 45%;
+}
+.hold{
+  display: flex;
+}
+.here{
+  margin-left: 20%;
+  margin-top: 5%;
+}
+.here p{
+  color: white;
+  margin-left: -48%;
+}
+.structure h3{
+  font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -20px;
+}
+.broad{
+  font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: -20px;
+}
+.fulltime, .parttime{
+  font-family: 'Poppins', sans-serif;
+background-color: rgb(23, 22, 22);
+color: white;
+border-radius: 20px;
+width: 600px;
+height: 950px;
+padding: 30px;
+margin: 30px;
+}
+.parttime{
+  margin-left: 5%;
+  background-image: url('/images/time.png');
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+.fulltime{
+    background-image: url('/images/hour.png');
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-position: bottom right;
+}
+.tracks p{
+  text-align: left;
+}
+h6{
+  font-size: 19px;
+}
+.tracks{
+  display: flex;
+  align-items: center;
+}
+.star{
+  margin-left: 75%;
+  width: 150px;
+}
+.structure-section{
+  margin-top: -10%;
+}
+.wires{
+  margin-top: 10%;
+}
+.program{
+  margin-top: -15%;
+}

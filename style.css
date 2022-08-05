@@ -1,0 +1,87 @@
+#headerimage{
+ background-color: rgb(255, 245, 246);
+ padding: 70px;
+}
+.buttons{
+ padding: 70px;
+}
+#red-btn{
+ background-color: red;
+ border: none;
+ height: 50px;
+ margin: 20px;
+ width: 240px;
+}
+h1{
+   margin-top: 8%;
+}
+p{
+   margin-top: 4%;
+}
+#blank{
+ background-color: transparent;
+  border: 1px solid red;
+   height: 50px;
+   margin: 20px;
+   width: 240px;
+}
+#red-btn a{
+ color: white;
+ text-decoration: none;
+}
+#blank a {
+ color: red;
+ text-decoration: none;
+}
+.some-text{
+ padding: 100px;
+}
+.container{
+   display: flex;
+   align-items: center;
+}
+.train-img, .intern-img, .talent-img{
+   background-color: white;
+   width: 100px;
+   margin: 30px;
+}
+.train, .intern, .talent{
+   background-color: rgb(255, 235, 238);
+margin-left: 20px;
+   height: 500px;
+   padding: 20px;
+   width: 450px;
+}
+.train a, .intern a, .talent a{
+   text-decoration: none;
+   color: red;
+}
+.last{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 50px;
+}
+.contact{
+   margin-top: 20px;
+}
+.follow img{
+   width: 20px;
+}
+.follow{
+   margin-top: -10px;
+}
+.red{
+   color: red;
+}
+
+#blog{
+   margin-top: 20px;
+}
+#logo{
+   margin-top: -6%;
+}
+h6{
+   font-family: 'Roboto', sans-serif;
+   font-size: 17px;
+}
